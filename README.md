@@ -57,6 +57,13 @@
 
 ---
 
+### 🌐 Discord Servers
+
+[![Join Discord 1](https://img.shields.io/badge/Join%20Discord%201-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/N2vNqmAy)
+[![Join Discord 2](https://img.shields.io/badge/Join%20Discord%202-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/Qba6Rjtm)
+
+---
+
 <p align="center">
   <b>⭐ Check out my latest projects below & say hi on Discord!</b>
 </p>
