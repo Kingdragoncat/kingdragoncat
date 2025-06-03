@@ -7,7 +7,7 @@
   <b>Student | Entrepreneur | Minecraft Plugin Dev</b>
 </p>
 <p align="center">
-    <a href="https://mythofy.net"><img src="https://img.shields.io/badge/Mythofy.net-Website-blueviolet?style=for-the-badge&logo=firefox-browser" alt="Mythofy.net"></a>
+    <a href="https://panel.mythofy.net"><img src="https://img.shields.io/badge/Mythofy.net-Website-blueviolet?style=for-the-badge&logo=firefox-browser" alt="Mythofy.net"></a>
     <a href="https://github.com/kingdragoncat"><img src="https://img.shields.io/badge/GitHub-Kingdragoncat-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
     <a href="https://www.spigotmc.org/members/kingdragoncat.1992912/"><img src="https://img.shields.io/badge/SpigotMC-Kingdragoncat-orange?style=for-the-badge&logo=minecraft" alt="SpigotMC"></a>
     <img src="https://img.shields.io/badge/Discord-kingdragoncat-5865F2?style=for-the-badge&logo=discord" alt="Discord">
@@ -22,6 +22,8 @@
 - 🤓 Always learning, building, and breaking stuff to learn more
 - 🌐 Web dabbler: JavaScript, React, HTML, CSS
 - ☕ Java enjoyer (and yes, I use Maven)
+- 🐧 Linux enthusiast (Debian & Ubuntu)
+- 🦖 Deploying, managing, and automating game servers
 
 ---
 
@@ -31,6 +33,8 @@
 - 💡 Running a growing platform at [Mythofy.net](https://mythofy.net)
 - 🌍 Sharing code and ideas on [GitHub](https://github.com/kingdragoncat) & [SpigotMC](https://www.spigotmc.org/members/kingdragoncat.1992912/)
 - 🗨️ Chatting with devs and gamers on Discord (@kingdragoncat)
+- 🐧 Managing and deploying services on Linux (especially with Debian/Ubuntu)
+- 🛡️ Automating server setups, maintenance, and security
 
 ---
 
@@ -44,7 +48,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="36" alt="Maven"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="36" alt="Discord"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="36" alt="Discord.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="36" alt="Debian"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="36" alt="Ubuntu"/>
 </p>
 
 ---
@@ -54,6 +61,7 @@
 - 🦄 Side quests: web apps, bots, random hacks, and experiments
 - 🏆 Motto: "Break stuff. Fix stuff. Learn. Repeat."
 - 🧩 Always open to collabs, ideas, or just a nerdy chat!
+- 🚀 Love automating boring tasks, especially on Linux servers
 
 ---
 
