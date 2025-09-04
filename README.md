@@ -21,7 +21,7 @@
 - 🛠️ Making cool things for Minecraft (Spigot plugins galore)
 - 🤓 Always learning, building, and breaking stuff to learn more
 - 🌐 Web dabbler: JavaScript, React, HTML, CSS
-- ☕ Java enjoyer (and yes, I use Maven)
+- ☕ Java enjoyer (Gradle ON TOP)
 - 🐧 Linux enthusiast (Debian & Ubuntu)
 - 🦖 Deploying, managing, and automating game servers
 
