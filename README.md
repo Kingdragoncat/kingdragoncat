@@ -32,10 +32,10 @@ I'm a full-stack engineer and entrepreneur building production-grade systems: we
 
 ## Tech stack
 
-**Languages:** TypeScript, JavaScript, Java, Python
-**Frontend:** React, Next.js, Tailwind CSS, Vite
-**Backend:** Node.js, Express, REST APIs
-**DevOps:** Linux, Docker, Kubernetes, Git, CI/CD
+**Languages:** TypeScript, JavaScript, Java, Python  
+**Frontend:** React, Next.js, Tailwind CSS, Vite  
+**Backend:** Node.js, Express, REST APIs  
+**DevOps:** Linux, Docker, Kubernetes, Git, CI/CD  
 **Databases:** MySQL, PostgreSQL
 
 ---
