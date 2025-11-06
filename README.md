@@ -70,7 +70,7 @@ I'm a full-stack engineer and entrepreneur who ships production-ready systems: w
 <summary><strong>Current Projects</strong></summary>
 
 - **[Mythofy](https://mythofy.net)** — platform for creators, developers, and server owners  
-- **Mythopay** — Stripe Connect payment system for the Minecraft ecosystem  
+- **[Mythopay](https://mythopay.net)** — Stripe Connect payment system for the Minecraft ecosystem  
 - **Custom Plugins** — gameplay systems, economies, and admin tools for Minecraft servers
 
 </details>
