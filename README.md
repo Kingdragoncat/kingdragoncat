@@ -88,7 +88,7 @@ I'm a full-stack engineer and entrepreneur who ships production-ready systems: w
 
 **Discord:** `@kingdragoncat`  
 **GitHub:** [github.com/Kingdragoncat](https://github.com/Kingdragoncat)  
-**Email:** your-email@example.com (replace with preferred contact)
+**Email:** (just contact me on discord for now)
 
 </details>
 
