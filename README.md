@@ -1,97 +1,94 @@
-<div align="center">
-
-# Kingdragoncat
-
-**Full-Stack Developer • Founder of [Mythofy Inc.](https://mythofy.net)**  
-
-I build production-grade web platforms, Minecraft plugins, infrastructure, and AI tooling — focused on scalable systems and tools for creators and communities.
-
-</div>
-
----
-
-### Badges
+<h1 align="center">Hi, I'm Jonah 👋</h1>
+<p align="center"><b>16-year-old Full-Stack Developer · Intern @ Nokia · Founder of Mythofy Inc.</b></p>
 
 <p align="center">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white"/>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
-  <img alt="Stripe" src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white"/>
+  I build and ship production systems — web platforms, Minecraft plugins, payment
+  infrastructure, and hardware security tooling. I like turning real problems into
+  things people actually use.
 </p>
 
 <p align="center">
-  <a href="https://github.com/Kingdragoncat"><img alt="github" src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://github.com/Kingdragoncat?tab=repositories"><img alt="repos" src="https://img.shields.io/badge/Repos-Public-0366d6?style=flat"/></a>
+  <a href="https://www.linkedin.com/in/jonah-novoseller/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://mythofy.net"><img src="https://img.shields.io/badge/Mythofy-Website-6C2BD9?style=flat"></a>
+  <img src="https://img.shields.io/badge/Repos-Public-0366d6?style=flat">
 </p>
 
 ---
 
-### About Me
+### 👨‍💻 About me
 
-I'm a full-stack engineer and entrepreneur who ships production-ready systems: web platforms, Minecraft plugins, payment integrations, and the infrastructure to run them reliably. I combine practical engineering with product sense to build tools creators and communities actually use.
+I'm a 16-year-old software developer from Canada. By day I'm a **software intern at Nokia**;
+the rest of the time I'm building **Mythofy Inc.**, a company I founded that makes tools for
+creators, developers, and community owners.
 
----
+I've been shipping real, production-grade systems for a while now — full-stack web apps,
+custom Minecraft plugins, Stripe-based payment infrastructure, and even open-source security
+hardware. I care about writing code that's clean, reliable, and genuinely useful.
 
-### Quick Highlights
-
-- Founder, Mythofy Inc.
-- Production web apps with Next.js + TypeScript
-- Custom Minecraft plugins & in-game systems
-- Infrastructure: Linux, Docker, Kubernetes, CI/CD
-- Payment systems (Stripe Connect) & AI tooling
-
----
-
-### What I Do
-
-- Full-stack web applications (Next.js, React, TypeScript)
-- Custom Minecraft plugins (gameplay systems, economies, admin tools)
-- Backend services, REST APIs, payment integrations (Node.js, Express)
-- Ops: Linux, Docker, Kubernetes, CI/CD pipelines and deployment automation
-- Prototype and integrate AI tooling to accelerate workflows
+Away from the keyboard, I'm an **8× national debater** and I **mentor students in debate and
+public speaking** — so I spend about as much time on clear communication as I do on clean code.
 
 ---
 
-<details>
-<summary><strong>Tech Stack</strong></summary>
+### 🛠️ What I work on
 
-**Languages:** TypeScript, JavaScript, Java, Python  
-**Frontend:** React, Next.js, Tailwind CSS, Vite  
-**Backend:** Node.js, Express, REST APIs  
-**DevOps:** Linux, Docker, Kubernetes, Git, CI/CD  
-**Databases:** MySQL, PostgreSQL
-
-</details>
-
-<details>
-<summary><strong>Current Projects</strong></summary>
-
-- **[Mythofy](https://mythofy.net)** — platform for creators, developers, and server owners  
-- **[Mythopay](https://mythopay.net)** — Stripe Connect payment system for the Minecraft ecosystem  
-- **Custom Plugins** — gameplay systems, economies, and admin tools for Minecraft servers
-
-</details>
+- **Full-stack web apps** — Next.js, React, TypeScript, Tailwind
+- **Minecraft plugins** — gameplay systems, economies, and admin tooling (Java)
+- **Backend & payments** — Node.js, Express, REST APIs, Stripe Connect
+- **Infrastructure** — Linux, Docker, Kubernetes, CI/CD
+- **Security & hardware** — open-source authentication tooling (C)
 
 ---
 
-### Work With Me
+### 🚀 Featured projects
 
-- Open to collaborations on creator platforms, community tooling, and scalable infrastructure  
-- Available for plugin commissions, mentorship, and contractor roles  
-- Prefer technical conversations via Discord or GitHub issues/PRs
-
-<details>
-<summary><strong>Contact</strong></summary>
-
-**Discord:** `@kingdragoncat`  
-**GitHub:** [github.com/Kingdragoncat](https://github.com/Kingdragoncat)  
-**Email:** (just contact me on discord for now)
-
-</details>
+| Project | What it is |
+| --- | --- |
+| **[Mythofy](https://mythofy.net)** | Platform of tools for creators, developers, and server owners |
+| **[Mythopay](https://mythopay.net)** | Stripe Connect payment system for the Minecraft ecosystem |
+| **[Knox-Key](https://github.com/Kingdragoncat/Knox-Key)** | Open-source, zero-trust hardware authenticator (C) |
+| **[CombatGhost](https://github.com/Kingdragoncat/CombatGhost)** | Anti-combat-log plugin with ghost NPCs + WorldGuard integration (Java) |
+| **[MLP](https://github.com/Kingdragoncat/MLP)** | Lightweight customizable launchpads plugin for Minecraft |
 
 ---
 
-<p align="center"><small>Built with ❤️ and a focus on shipping real systems that people use.</small></p>
+### 🧰 Tech stack
+
+**Languages:** TypeScript · JavaScript · Java · Python · C
+**Frontend:** React · Next.js · Tailwind CSS · Vite
+**Backend:** Node.js · Express · REST APIs
+**DevOps:** Linux · Docker · Kubernetes · Git · CI/CD
+**Databases:** MySQL · PostgreSQL
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white">
+</p>
+
+---
+
+### 📈 GitHub stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kingdragoncat&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingdragoncat&layout=compact&theme=tokyonight&hide_border=true" height="165">
+</p>
+
+---
+
+### 🤝 Let's connect
+
+I'm always up for interesting technical conversations and collaboration on creator tools,
+community platforms, and scalable infrastructure.
+
+- **LinkedIn:** [in/jonah-novoseller](https://www.linkedin.com/in/jonah-novoseller/)
+- **Mythofy:** [mythofy.net](https://mythofy.net)
+- **Discord:** `@kingdragoncat`
+
+<p align="center"><i>Built with a focus on shipping real systems that people actually use.</i></p>
