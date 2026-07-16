@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Jonah 👋</h1>
-<p align="center"><b>16-year-old Full-Stack Developer · Intern @ Nokia · Founder of Mythofy Inc.</b></p>
+<p align="center"><b>16-year-old Full-Stack Developer · Future Tech Intern @ Nokia · Founder of Mythofy Inc.</b></p>
 
 <p align="center">
-  I build and ship production systems — web platforms, Minecraft plugins, payment
+  I build and ship production systems: web platforms, Minecraft plugins, payment
   infrastructure, and hardware security tooling. I like turning real problems into
   things people actually use.
 </p>
@@ -17,26 +17,26 @@
 
 ### 👨‍💻 About me
 
-I'm a 16-year-old software developer from Canada. By day I'm a **software intern at Nokia**;
+I'm a 16-year-old software developer from Canada. By day I'm a **Future Tech Intern at Nokia**;
 the rest of the time I'm building **Mythofy Inc.**, a company I founded that makes tools for
 creators, developers, and community owners.
 
-I've been shipping real, production-grade systems for a while now — full-stack web apps,
+I've been shipping real, production-grade systems for a while now: full-stack web apps,
 custom Minecraft plugins, Stripe-based payment infrastructure, and even open-source security
 hardware. I care about writing code that's clean, reliable, and genuinely useful.
 
 Away from the keyboard, I'm an **8× national debater** and I **mentor students in debate and
-public speaking** — so I spend about as much time on clear communication as I do on clean code.
+public speaking**, so I spend about as much time on clear communication as I do on clean code.
 
 ---
 
 ### 🛠️ What I work on
 
-- **Full-stack web apps** — Next.js, React, TypeScript, Tailwind
-- **Minecraft plugins** — gameplay systems, economies, and admin tooling (Java)
-- **Backend & payments** — Node.js, Express, REST APIs, Stripe Connect
-- **Infrastructure** — Linux, Docker, Kubernetes, CI/CD
-- **Security & hardware** — open-source authentication tooling (C)
+- **Full-stack web apps**: Next.js, React, TypeScript, Tailwind
+- **Systems & tooling**: Rust, C
+- **Minecraft plugins**: gameplay systems, economies, and admin tooling (Java)
+- **Backend & payments**: Node.js, Express, REST APIs, Stripe Connect
+- **Infrastructure**: Linux, Docker, Kubernetes, CI/CD
 
 ---
 
@@ -54,30 +54,26 @@ public speaking** — so I spend about as much time on clear communication as I 
 
 ### 🧰 Tech stack
 
-**Languages:** TypeScript · JavaScript · Java · Python · C
+**Languages:** Rust · TypeScript · JavaScript · Java · Python · C
 **Frontend:** React · Next.js · Tailwind CSS · Vite
 **Backend:** Node.js · Express · REST APIs
 **DevOps:** Linux · Docker · Kubernetes · Git · CI/CD
 **Databases:** MySQL · PostgreSQL
 
 <p>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white">
-</p>
-
----
-
-### 📈 GitHub stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Kingdragoncat&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingdragoncat&layout=compact&theme=tokyonight&hide_border=true" height="165">
 </p>
 
 ---
