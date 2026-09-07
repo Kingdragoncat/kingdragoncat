@@ -44,7 +44,6 @@ public speaking**, so I spend about as much time on clear communication as I do 
 
 | Project | What it is |
 | --- | --- |
-| **[Mythofy](https://mythofy.net)** | Platform of tools for creators, developers, and server owners |
 | **[Mythopay](https://mythopay.net)** | Stripe Connect payment system for the Minecraft ecosystem |
 | **[Knox-Key](https://github.com/Kingdragoncat/Knox-Key)** | Open-source, zero-trust hardware authenticator (C) |
 | **[CombatGhost](https://github.com/Kingdragoncat/CombatGhost)** | Anti-combat-log plugin with ghost NPCs + WorldGuard integration (Java) |
