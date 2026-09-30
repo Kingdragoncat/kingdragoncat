@@ -85,5 +85,6 @@ community platforms, and scalable infrastructure.
 - **LinkedIn:** [in/jonah-novoseller](https://www.linkedin.com/in/jonah-novoseller/)
 - **Mythofy:** [mythofy.net](https://mythofy.net)
 - **Discord:** `@kingdragoncat`
+- **Buisness Email** Jonah.novoseller@mythofy.net
 
 <p align="center"><i>Built with a focus on shipping real systems that people actually use.</i></p>
