@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jonah 👋</h1>
-<p align="center"><b>16-year-old Full-Stack Developer · Future Tech Intern @ Nokia · Founder of Mythofy Inc.</b></p>
+<p align="center"><b>16-year-old Full-Stack Developer · Future Tech Intern Alumni @ Nokia · Founder of Mythofy Inc.</b></p>
 
 <p align="center">
   I build and ship production systems: web platforms, Minecraft plugins, payment
@@ -17,9 +17,10 @@
 
 ### 👨‍💻 About me
 
-I'm a 16-year-old software developer from Canada. By day I'm a **Future Tech Intern at Nokia**;
+I'm a 16-year-old software developer from Canada. By day I'm a **Grade 12 Student**;
 the rest of the time I'm building **Mythofy Inc.**, a company I founded that makes tools for
-creators, developers, and community owners.
+creators, developers, and community owners. 
+(I also do commissions on the side)
 
 I've been shipping real, production-grade systems for a while now: full-stack web apps,
 custom Minecraft plugins, Stripe-based payment infrastructure, and even open-source security
@@ -34,7 +35,7 @@ public speaking**, so I spend about as much time on clear communication as I do 
 
 - **Full-stack web apps**: Next.js, React, TypeScript, Tailwind
 - **Systems & tooling**: Rust, C
-- **Minecraft plugins**: gameplay systems, economies, and admin tooling (Java)
+- **Minecraft plugins**: gameplay systems, economies, core systems, and admin tooling (Java)
 - **Backend & payments**: Node.js, Express, REST APIs, Stripe Connect
 - **Infrastructure**: Linux, Docker, Kubernetes, CI/CD
 
@@ -57,7 +58,7 @@ public speaking**, so I spend about as much time on clear communication as I do 
 **Frontend:** React · Next.js · Tailwind CSS · Vite
 **Backend:** Node.js · Express · REST APIs
 **DevOps:** Linux · Docker · Kubernetes · Git · CI/CD
-**Databases:** MySQL · PostgreSQL
+**Databases:** MySQL · PostgreSQL · MariaDB · MongoDB 
 
 <p>
   <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white">
@@ -80,7 +81,7 @@ public speaking**, so I spend about as much time on clear communication as I do 
 ### 🤝 Let's connect
 
 I'm always up for interesting technical conversations and collaboration on creator tools,
-community platforms, and scalable infrastructure.
+community platforms, and scalable infrastructure. 
 
 - **LinkedIn:** [in/jonah-novoseller](https://www.linkedin.com/in/jonah-novoseller/)
 - **Mythofy:** [mythofy.net](https://mythofy.net)
