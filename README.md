@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About me
 
-I'm a 16-year-old software developer from Canada. By day I'm a **Grade 12 Student**;
+I'm a 17-year-old software developer from Canada. By day I'm a **Grade 12 Student**;
 the rest of the time I'm building **Mythofy Inc.**, a company I founded that makes tools for
 creators, developers, and community owners. 
 (I also do commissions on the side)
