@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jonah 👋</h1>
-<p align="center"><b>16-year-old Full-Stack Developer · Future Tech Intern Alumni @ Nokia · Founder of Mythofy Inc.</b></p>
+<p align="center"><b>17-year-old Full-Stack Developer · Future Tech Intern Alumni @ Nokia · Founder of Mythofy Inc.</b></p>
 
 <p align="center">
   I build and ship production systems: web platforms, Minecraft plugins, payment
