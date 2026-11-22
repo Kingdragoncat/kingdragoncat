@@ -26,7 +26,7 @@ I've been shipping real, production-grade systems for a while now: full-stack we
 custom Minecraft plugins, Stripe-based payment infrastructure, and even open-source security
 hardware. I care about writing code that's clean, reliable, and genuinely useful.
 
-Away from the keyboard, I'm an **8× national debater** and I **mentor students in debate and
+Away from the keyboard, I'm an **7× national debater 1x Internation debate champion** and I **mentor students in debate and
 public speaking**, so I spend about as much time on clear communication as I do on clean code.
 
 ---
